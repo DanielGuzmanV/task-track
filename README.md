@@ -1,6 +1,20 @@
 # task_track
 
-A new Flutter project.
+Aplicación móvil diseñada para ayudar a organizar el tiempo y gestionar tareas diarias de manera eficiente. Combina recordatorios personalizados con planes diarios y semanales para que nunca olvides lo importante.
+
+## Caracteristicas
+
+- **Gestión de recordatorios**:
+  - Configura recordatorios personalizados para actividades importantes.
+  - Activa o desactiva recordatorios según sea necesario.
+
+  - **Planes diarios y semanales**:
+  - Organiza tus tareas en horarios detallados por día o semana.
+  - Establece alertas automáticas para eventos clave en tu agenda.
+
+  ## Objetivo
+
+El objetivo de TaskTrack es mejorar la productividad y reducir el estrés al ofrecer una herramienta confiable para la organización del tiempo y la gestión de actividades personales.
 
 ## Getting Started
 
